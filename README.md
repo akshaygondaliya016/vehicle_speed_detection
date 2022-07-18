@@ -58,4 +58,3 @@ d_pixels gives the pixel distance travelled by the vehicle in one frame of our v
 Now, we can calculate the speed(speed = d_meters * fps * 3.6). d_meters is the distance travelled in one frame. We have already calculated the average fps during video processing. So, to get the speed in m/s, just (d_metres * fps) will do. We have multiplied that estimated speed with 3.6 to convert it into km/hr.
 
 
-### Pull requests are welcome
