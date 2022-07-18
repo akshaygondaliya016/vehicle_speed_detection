@@ -1,10 +1,10 @@
 # Vehicle Speed Detection
-### This repo is no longer maintained.
+
 
 ![output.gif](output.gif)
 
 Technologies used :
-- Python
+- Python (3.8.8)
 - opencv
 - dlib
 <br>
